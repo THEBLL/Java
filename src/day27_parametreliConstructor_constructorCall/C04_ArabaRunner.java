@@ -16,7 +16,10 @@ public class C04_ArabaRunner {
         System.out.println(araba1);
 
 
-        // he yeni obje olusturdugumuzda parametresiz default cons. calistigindan
+
+
+
+        // her yeni obje olusturdugumuzda parametresiz default cons. calistigindan
         // o class'da instance variable'lara atanan degerlerini alir
         // sonra bizim her variable icin yeniden atama yapmamiz gerekir
 

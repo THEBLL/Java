@@ -11,12 +11,10 @@ public class C08_Car {
 
 
     public String toString() {
-        return "C08_Car{" +
-                "marka='" + marka + '\'' +
-                ", model='" + model + '\'' +
-                ", yil=" + yil +
-                ", fiyat=" + fiyat +
-                ", renk='" + renk + '\'' +
-                '}';
+        return  "marka = " + marka +"\n"+
+                "model = " + model +"\n"+
+                "yil = " + yil +"\n"+
+                "fiyat = " + fiyat +"\n"+
+                "renk = " + renk;
     }
 }

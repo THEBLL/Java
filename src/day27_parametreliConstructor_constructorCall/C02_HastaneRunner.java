@@ -8,6 +8,8 @@ public class C02_HastaneRunner {
 
         C01_Hastane personel1 = new C01_Hastane();
 
+
+
         System.out.println(personel1.personelIsmi); // Isim atanmadi
         System.out.println(personel1.personelTelefonu);  // telefonAtanmadi
         System.out.println(personel1.hastaneAdi);  // Yildiz Hastanesi

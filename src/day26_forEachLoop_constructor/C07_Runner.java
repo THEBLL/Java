@@ -11,8 +11,10 @@ public class C07_Runner {
         // cunku bir objeye atayamadik
 
         System.out.println(new C04().sayi);  // 10
+        System.out.println();
 
         C04 obj2 = new C04();
+
 
     }
 

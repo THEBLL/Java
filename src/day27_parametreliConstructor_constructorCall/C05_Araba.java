@@ -8,6 +8,7 @@ public class C05_Araba {
     int fiyat;
     String renk = "Renk belirtilmemis";
 
+
     public C05_Araba() {
     }
 
