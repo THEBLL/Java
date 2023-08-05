@@ -31,9 +31,9 @@ public class C01_ConstructorCall {
     }
 
     public static void main(String[] args) {
-        C01_ConstructorCall obj1 = new C01_ConstructorCall("Merhaba televole");
+      //  C01_ConstructorCall obj1 = new C01_ConstructorCall("Merhaba televole");
 
-       // new C01_ConstructorCall(4); // constructor calisir
+       new C01_ConstructorCall(4); // constructor calisir
         // C01_ConstructorCall(4);  // method calisir
 
 

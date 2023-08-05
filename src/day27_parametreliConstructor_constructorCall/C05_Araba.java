@@ -10,6 +10,7 @@ public class C05_Araba {
 
 
     public C05_Araba() {
+
     }
 
     public C05_Araba(String marka, String model, int yil, int fiyat, String renk) {
@@ -40,5 +41,10 @@ public class C05_Araba {
                 ", fiyat=" + fiyat +
                 ", renk='" + renk + '\'' +
                 '}';
+
+    }
+
+    public static void main(String[] args) {
+
     }
 }
