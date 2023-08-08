@@ -21,5 +21,7 @@ public class C06_ArabaRunner {
 
        C05_Araba araba10=new C05_Araba("nissan",2010,20000);
         System.out.println(araba10);
+
+
     }
 }
