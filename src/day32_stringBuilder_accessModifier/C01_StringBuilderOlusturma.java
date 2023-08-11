@@ -1,6 +1,7 @@
 package day32_stringBuilder_accessModifier;
 
 public class C01_StringBuilderOlusturma{
+
     public static void main(String[] args) {
 
         StringBuilder sb1=new StringBuilder();
@@ -31,6 +32,7 @@ public class C01_StringBuilderOlusturma{
         System.out.println(sb3);  // Java Candir.
         System.out.println(sb3.length());  // 12
         System.out.println(sb3.capacity());  // 12
+
 
     }
 }

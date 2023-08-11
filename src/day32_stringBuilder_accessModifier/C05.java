@@ -7,4 +7,9 @@ public class C05 {
     protected int protectedSayi;
     public int publicSayi;
 
+    public static void main(String[] args) {
+        C05 obj= new C05();
+        obj.privateSayi=20;
+        System.out.println(obj.privateSayi);
+    }
 }
