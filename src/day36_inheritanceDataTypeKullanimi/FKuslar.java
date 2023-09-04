@@ -2,6 +2,7 @@ package day36_inheritanceDataTypeKullanimi;
 
 public class FKuslar extends EHayvanlar{
 
+    String str="Bilal";
     protected void kanat(){
 
         System.out.println("kanatlidirlar");

@@ -35,6 +35,7 @@ public class C02_SatinAlma {
         pazarlama.setSatis(100);
         pazarlama.setSatis(200);
         pazarlama.setSatis(400);
+        pazarlama.setSatis(100);
 
         System.out.println(pazarlama.getToplamSatis());
     }

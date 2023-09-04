@@ -16,7 +16,6 @@ public class HMethodRunner {
         avciKusKartal.cogalma(); // F Yumurtayla
         avciKusKartal.omur(); // E yasar ve olurler
 
-
         FKuslar kusKartal = new GAvciKuslar();
         // constructor ve data turu ayni degil ise
         // aramaya data turu olan class'dan baslanir ve bulunamazsa CTE verir
@@ -24,6 +23,7 @@ public class HMethodRunner {
         // bu ozelligin daha guncel hali var mi diye kontrol edilir
         // ve varsa en guncel hali yazilir
 
+        System.out.println(kusKartal.str);
         kusKartal.hareket(); // G ucarlar
         kusKartal.beslenme(); // G et yer
         // kusKartal.pence(); // B veya A'da yok CTE
@@ -43,5 +43,6 @@ public class HMethodRunner {
         hayvanKartal.solunum(); // F Akciger
         hayvanKartal.cogalma(); // F Yumurtayla
         hayvanKartal.omur(); // E yasar ve olurler
+
     }
 }

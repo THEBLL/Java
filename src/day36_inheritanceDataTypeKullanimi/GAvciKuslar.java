@@ -1,6 +1,7 @@
 package day36_inheritanceDataTypeKullanimi;
 
 public class GAvciKuslar extends FKuslar{
+    String str="ahmet";
 
     public void hareket() {
         System.out.println("ucarlar");

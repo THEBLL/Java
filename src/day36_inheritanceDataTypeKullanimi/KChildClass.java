@@ -11,8 +11,13 @@ public class KChildClass extends JParentClass{
         super.method2();
     }
 
+    @Override
+    public void method3() {
+        super.method3();
+        System.out.println("ahmet");
 
-    /*
+    }
+/*
 
     @Override notasyonu overriden method ile
     overriding method'u birbirine baglar
